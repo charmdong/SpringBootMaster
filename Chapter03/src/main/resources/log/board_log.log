@@ -1,0 +1,121 @@
+2021-07-19 17:53:50.684  INFO 34959 --- [restartedMain] com.donggun.Chapter03Application         : Starting Chapter03Application using Java 1.8.0_241 on MacBookPro.local with PID 34959 (/Users/donggun/eclipse-workspace/quickStart/Chapter03/target/classes started by donggun in /Users/donggun/eclipse-workspace/quickStart/Chapter03)
+2021-07-19 17:53:50.684 DEBUG 34959 --- [restartedMain] com.donggun.Chapter03Application         : Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-19 17:53:50.684  INFO 34959 --- [restartedMain] com.donggun.Chapter03Application         : No active profile set, falling back to default profiles: default
+2021-07-19 17:53:50.831  INFO 34959 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-07-19 17:53:50.832  INFO 34959 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-07-19 17:53:50.832  INFO 34959 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.48]
+2021-07-19 17:53:50.837  INFO 34959 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-07-19 17:53:50.837  INFO 34959 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 150 ms
+2021-07-19 17:53:50.902  INFO 34959 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-07-19 17:53:50.910  INFO 34959 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-07-19 17:53:50.913  INFO 34959 --- [restartedMain] com.donggun.Chapter03Application         : Started Chapter03Application in 0.413 seconds (JVM running for 294.774)
+2021-07-19 17:53:50.914 DEBUG 34959 --- [restartedMain] com.donggun.LoggingRunner                : DEBUG log Message
+2021-07-19 17:53:50.914  INFO 34959 --- [restartedMain] com.donggun.LoggingRunner                : INFO log Message
+2021-07-19 17:53:50.914  WARN 34959 --- [restartedMain] com.donggun.LoggingRunner                : WARN log Message
+2021-07-19 17:53:50.914 ERROR 34959 --- [restartedMain] com.donggun.LoggingRunner                : ERROR log Message
+2021-07-19 17:53:50.915  INFO 34959 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-07-19 17:53:57.487  INFO 34959 --- [restartedMain] com.donggun.Chapter03Application         : Starting Chapter03Application using Java 1.8.0_241 on MacBookPro.local with PID 34959 (/Users/donggun/eclipse-workspace/quickStart/Chapter03/target/classes started by donggun in /Users/donggun/eclipse-workspace/quickStart/Chapter03)
+2021-07-19 17:53:57.487 DEBUG 34959 --- [restartedMain] com.donggun.Chapter03Application         : Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-19 17:53:57.487  INFO 34959 --- [restartedMain] com.donggun.Chapter03Application         : No active profile set, falling back to default profiles: default
+2021-07-19 17:53:57.597  INFO 34959 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-07-19 17:53:57.598  INFO 34959 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-07-19 17:53:57.598  INFO 34959 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.48]
+2021-07-19 17:53:57.602  INFO 34959 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-07-19 17:53:57.602  INFO 34959 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 113 ms
+2021-07-19 17:53:57.667  INFO 34959 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-07-19 17:53:57.675  INFO 34959 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-07-19 17:53:57.678  INFO 34959 --- [restartedMain] com.donggun.Chapter03Application         : Started Chapter03Application in 0.219 seconds (JVM running for 301.539)
+2021-07-19 17:53:57.679 DEBUG 34959 --- [restartedMain] com.donggun.LoggingRunner                : DEBUG log Message
+2021-07-19 17:53:57.679  INFO 34959 --- [restartedMain] com.donggun.LoggingRunner                : INFO log Message
+2021-07-19 17:53:57.679  WARN 34959 --- [restartedMain] com.donggun.LoggingRunner                : WARN log Message
+2021-07-19 17:53:57.679 ERROR 34959 --- [restartedMain] com.donggun.LoggingRunner                : ERROR log Message
+2021-07-19 17:53:57.680  INFO 34959 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-07-19 17:54:00.221  INFO 34959 --- [restartedMain] com.donggun.Chapter03Application         : Starting Chapter03Application using Java 1.8.0_241 on MacBookPro.local with PID 34959 (/Users/donggun/eclipse-workspace/quickStart/Chapter03/target/classes started by donggun in /Users/donggun/eclipse-workspace/quickStart/Chapter03)
+2021-07-19 17:54:00.221 DEBUG 34959 --- [restartedMain] com.donggun.Chapter03Application         : Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-19 17:54:00.221  INFO 34959 --- [restartedMain] com.donggun.Chapter03Application         : No active profile set, falling back to default profiles: default
+2021-07-19 17:54:00.330  INFO 34959 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-07-19 17:54:00.331  INFO 34959 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-07-19 17:54:00.331  INFO 34959 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.48]
+2021-07-19 17:54:00.335  INFO 34959 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-07-19 17:54:00.336  INFO 34959 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 113 ms
+2021-07-19 17:54:00.390  INFO 34959 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-07-19 17:54:00.397  INFO 34959 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-07-19 17:54:00.400  INFO 34959 --- [restartedMain] com.donggun.Chapter03Application         : Started Chapter03Application in 0.205 seconds (JVM running for 304.261)
+2021-07-19 17:54:00.401 DEBUG 34959 --- [restartedMain] com.donggun.LoggingRunner                : DEBUG log Message
+2021-07-19 17:54:00.401  INFO 34959 --- [restartedMain] com.donggun.LoggingRunner                : INFO log Message
+2021-07-19 17:54:00.401  WARN 34959 --- [restartedMain] com.donggun.LoggingRunner                : WARN log Message
+2021-07-19 17:54:00.401 ERROR 34959 --- [restartedMain] com.donggun.LoggingRunner                : ERROR log Message
+2021-07-19 17:54:00.402  INFO 34959 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-07-19 18:09:40.256  INFO 34959 --- [restartedMain] com.donggun.Chapter03Application         : Starting Chapter03Application using Java 1.8.0_241 on MacBookPro.local with PID 34959 (/Users/donggun/eclipse-workspace/quickStart/Chapter03/target/classes started by donggun in /Users/donggun/eclipse-workspace/quickStart/Chapter03)
+2021-07-19 18:09:40.256 DEBUG 34959 --- [restartedMain] com.donggun.Chapter03Application         : Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-19 18:09:40.256  INFO 34959 --- [restartedMain] com.donggun.Chapter03Application         : No active profile set, falling back to default profiles: default
+2021-07-19 18:09:40.444  INFO 34959 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-07-19 18:09:40.446  INFO 34959 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-07-19 18:09:40.446  INFO 34959 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.48]
+2021-07-19 18:09:40.454  INFO 34959 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-07-19 18:09:40.454  INFO 34959 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 195 ms
+2021-07-19 18:09:40.519  INFO 34959 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-07-19 18:09:40.537  INFO 34959 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-07-19 18:09:40.542  INFO 34959 --- [restartedMain] com.donggun.Chapter03Application         : Started Chapter03Application in 0.46 seconds (JVM running for 1244.381)
+2021-07-19 18:09:40.543 DEBUG 34959 --- [restartedMain] com.donggun.LoggingRunner                : DEBUG log Message
+2021-07-19 18:09:40.543  INFO 34959 --- [restartedMain] com.donggun.LoggingRunner                : INFO log Message
+2021-07-19 18:09:40.543  WARN 34959 --- [restartedMain] com.donggun.LoggingRunner                : WARN log Message
+2021-07-19 18:09:40.543 ERROR 34959 --- [restartedMain] com.donggun.LoggingRunner                : ERROR log Message
+2021-07-19 18:09:40.544  INFO 34959 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-07-19 19:24:33.580  INFO 34959 --- [restartedMain] com.donggun.Chapter03Application         : Starting Chapter03Application using Java 1.8.0_241 on MacBookPro.local with PID 34959 (/Users/donggun/eclipse-workspace/quickStart/Chapter03/target/classes started by donggun in /Users/donggun/eclipse-workspace/quickStart/Chapter03)
+2021-07-19 19:24:33.581 DEBUG 34959 --- [restartedMain] com.donggun.Chapter03Application         : Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-19 19:24:33.581  INFO 34959 --- [restartedMain] com.donggun.Chapter03Application         : No active profile set, falling back to default profiles: default
+2021-07-19 19:24:33.734  INFO 34959 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-07-19 19:24:33.736  INFO 34959 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-07-19 19:24:33.736  INFO 34959 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.48]
+2021-07-19 19:24:33.748  INFO 34959 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-07-19 19:24:33.748  INFO 34959 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 165 ms
+2021-07-19 19:24:33.837  INFO 34959 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-07-19 19:24:33.848  INFO 34959 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-07-19 19:24:33.852  INFO 34959 --- [restartedMain] com.donggun.Chapter03Application         : Started Chapter03Application in 0.522 seconds (JVM running for 5737.588)
+2021-07-19 19:24:33.853 DEBUG 34959 --- [restartedMain] com.donggun.LoggingRunner                : DEBUG log Message
+2021-07-19 19:24:33.853  INFO 34959 --- [restartedMain] com.donggun.LoggingRunner                : INFO log Message
+2021-07-19 19:24:33.854  WARN 34959 --- [restartedMain] com.donggun.LoggingRunner                : WARN log Message
+2021-07-19 19:24:33.854 ERROR 34959 --- [restartedMain] com.donggun.LoggingRunner                : ERROR log Message
+2021-07-19 19:24:33.855  INFO 34959 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-07-19 19:24:35.355  INFO 34959 --- [restartedMain] com.donggun.Chapter03Application         : Starting Chapter03Application using Java 1.8.0_241 on MacBookPro.local with PID 34959 (/Users/donggun/eclipse-workspace/quickStart/Chapter03/target/classes started by donggun in /Users/donggun/eclipse-workspace/quickStart/Chapter03)
+2021-07-19 19:24:35.355 DEBUG 34959 --- [restartedMain] com.donggun.Chapter03Application         : Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-19 19:24:35.355  INFO 34959 --- [restartedMain] com.donggun.Chapter03Application         : No active profile set, falling back to default profiles: default
+2021-07-19 19:24:35.448  INFO 34959 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-07-19 19:24:35.449  INFO 34959 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-07-19 19:24:35.449  INFO 34959 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.48]
+2021-07-19 19:24:35.453  INFO 34959 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-07-19 19:24:35.453  INFO 34959 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 96 ms
+2021-07-19 19:24:35.502  INFO 34959 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-07-19 19:24:35.514  INFO 34959 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-07-19 19:24:35.518  INFO 34959 --- [restartedMain] com.donggun.Chapter03Application         : Started Chapter03Application in 0.184 seconds (JVM running for 5739.254)
+2021-07-19 19:24:35.519 DEBUG 34959 --- [restartedMain] com.donggun.LoggingRunner                : DEBUG log Message
+2021-07-19 19:24:35.520  INFO 34959 --- [restartedMain] com.donggun.LoggingRunner                : INFO log Message
+2021-07-19 19:24:35.520  WARN 34959 --- [restartedMain] com.donggun.LoggingRunner                : WARN log Message
+2021-07-19 19:24:35.520 ERROR 34959 --- [restartedMain] com.donggun.LoggingRunner                : ERROR log Message
+2021-07-19 19:24:35.521  INFO 34959 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-07-19 19:24:37.021  INFO 34959 --- [restartedMain] com.donggun.Chapter03Application         : Starting Chapter03Application using Java 1.8.0_241 on MacBookPro.local with PID 34959 (/Users/donggun/eclipse-workspace/quickStart/Chapter03/target/classes started by donggun in /Users/donggun/eclipse-workspace/quickStart/Chapter03)
+2021-07-19 19:24:37.021 DEBUG 34959 --- [restartedMain] com.donggun.Chapter03Application         : Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-19 19:24:37.021  INFO 34959 --- [restartedMain] com.donggun.Chapter03Application         : No active profile set, falling back to default profiles: default
+2021-07-19 19:24:37.119  INFO 34959 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2021-07-19 19:24:37.119  INFO 34959 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-07-19 19:24:37.119  INFO 34959 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.48]
+2021-07-19 19:24:37.124  INFO 34959 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-07-19 19:24:37.124  INFO 34959 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 100 ms
+2021-07-19 19:24:37.168  INFO 34959 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-07-19 19:24:37.175  INFO 34959 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2021-07-19 19:24:37.178  INFO 34959 --- [restartedMain] com.donggun.Chapter03Application         : Started Chapter03Application in 0.178 seconds (JVM running for 5740.913)
+2021-07-19 19:24:37.178 DEBUG 34959 --- [restartedMain] com.donggun.LoggingRunner                : DEBUG log Message
+2021-07-19 19:24:37.178  INFO 34959 --- [restartedMain] com.donggun.LoggingRunner                : INFO log Message
+2021-07-19 19:24:37.178  WARN 34959 --- [restartedMain] com.donggun.LoggingRunner                : WARN log Message
+2021-07-19 19:24:37.178 ERROR 34959 --- [restartedMain] com.donggun.LoggingRunner                : ERROR log Message
+2021-07-19 19:24:37.179  INFO 34959 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-07-19 19:25:41.685  INFO 34959 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-07-19 19:26:04.877  INFO 38697 --- [main] com.donggun.Chapter03ApplicationTests    : Starting Chapter03ApplicationTests using Java 1.8.0_241 on MacBookPro.local with PID 38697 (started by donggun in /Users/donggun/eclipse-workspace/quickStart/Chapter03)
+2021-07-19 19:26:04.878 DEBUG 38697 --- [main] com.donggun.Chapter03ApplicationTests    : Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-19 19:26:04.880  INFO 38697 --- [main] com.donggun.Chapter03ApplicationTests    : No active profile set, falling back to default profiles: default
+2021-07-19 19:26:06.066  INFO 38697 --- [main] com.donggun.Chapter03ApplicationTests    : Started Chapter03ApplicationTests in 1.468 seconds (JVM running for 2.374)
+2021-07-19 19:26:06.068 DEBUG 38697 --- [main] com.donggun.LoggingRunner                : DEBUG log Message
+2021-07-19 19:26:06.068  INFO 38697 --- [main] com.donggun.LoggingRunner                : INFO log Message
+2021-07-19 19:26:06.068  WARN 38697 --- [main] com.donggun.LoggingRunner                : WARN log Message
+2021-07-19 19:26:06.068 ERROR 38697 --- [main] com.donggun.LoggingRunner                : ERROR log Message
