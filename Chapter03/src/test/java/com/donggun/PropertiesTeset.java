@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 import com.donggun.controller.BoardController;
 
 @RunWith(SpringRunner.class)
-@SpringBootTest(classes=BoardController.class,
+@SpringBootTest(
 		properties={"author.name=donggun",
 					"author.age=26",
 					"author.nation=Korea"})
