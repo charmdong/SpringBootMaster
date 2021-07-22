@@ -1,6 +1,6 @@
 package com.donggun;
 
-import java.util.Date;
+import java.util.List;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
@@ -20,15 +20,12 @@ public class JPAClient {
 		try {
 			tx.begin();
 
-			Board board = new Board();
-
-			board.setTitle("JPA Title");
-			board.setWriter("Admin");
-			board.setContent("JPA 글 등록 잘 되네요.");
-			board.setCreateDate(new Date());
-			board.setCnt(0L);
-
-			em.persist(board);
+			String jpql = "select b from Board b order by b.seq desc";
+			List<Board> boardList = em.createQuery(jpql, Board.class).getResultList();
+			
+			for(Board board: boardList) {
+				System.out.println(board);
+			}
 
 			tx.commit();
 		} catch (Exception e) {

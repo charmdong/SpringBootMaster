@@ -16,7 +16,7 @@
 			<property name="hibernate.format_sql" value="true"/>
 			<property name="hibernate.use_sql_comments" value="false"/>
 			<property name="hibernate.id.new_generator_mappings" value="true"/>
-			<property name="hibernate.hbm2ddl.auto" value="create"/> <!-- create: 새로 생성, update: 데이터 누적 -->
+			<property name="hibernate.hbm2ddl.auto" value="update"/> <!-- create: 새로 생성, update: 데이터 누적 -->
 		</properties>
 	</persistence-unit>
 </persistence>
