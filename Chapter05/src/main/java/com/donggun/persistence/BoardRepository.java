@@ -20,6 +20,7 @@ public interface BoardRepository extends CrudRepository<Board, Long>{
 	
 	Page<Board> findByTitleContaining(String searchKeyword, Pageable paging);
 	
+	/*
 	@Query("SELECT b FROM Board b " + "WHERE b.title like %:searchKeyword% " + "ORDER BY b.seq DESC")
 	List<Board> queryAnnotationTest1(@Param("searchKeyword") String searchKeyword);
 	
@@ -36,4 +37,5 @@ public interface BoardRepository extends CrudRepository<Board, Long>{
 	
 	@Query("SELECT b FROM Board b ORDER BY b.seq DESC")
 	List<Board> queryAnnotationTest4(Pageable paging);
+	*/
 }

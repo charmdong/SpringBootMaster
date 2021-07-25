@@ -45,12 +45,12 @@ public class QueryAnnotationTest {
 //		boardList.stream().forEach(board -> System.out.println(Arrays.toString(board)));
 //	}
 	
-	@Test
-	public void testQueryAnnotationTest4() {
-		Pageable paging = PageRequest.of(0, 3, Sort.Direction.DESC, "seq");
-		List<Board> boardList = boardRepo.queryAnnotationTest4(paging);
-		
-		System.out.println("### Search Result ###");
-		boardList.stream().forEach(board -> System.out.println(board));
-	}
+//	@Test
+//	public void testQueryAnnotationTest4() {
+//		Pageable paging = PageRequest.of(0, 3, Sort.Direction.DESC, "seq");
+//		List<Board> boardList = boardRepo.queryAnnotationTest4(paging);
+//		
+//		System.out.println("### Search Result ###");
+//		boardList.stream().forEach(board -> System.out.println(board));
+//	}
 }
