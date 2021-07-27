@@ -38,7 +38,6 @@ public class BoardController {
 		return "getBoard";
 	}
 	
-	
 	@RequestMapping(value="/insertBoardView")
 	public String insertBoardView() {
 		return "insertBoard";
@@ -63,5 +62,10 @@ public class BoardController {
 		boardService.deleteBoard(board);
 		
 		return "forward:getBoardList";
+	}
+	
+	@GetMapping(value="/hello")
+	public void hello(Model model) {
+		model.addAttribute("greeting", "Hello Thymeleaf :)");
 	}
 }

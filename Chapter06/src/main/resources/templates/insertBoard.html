@@ -1,0 +1,32 @@
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+	<title>Insert Board</title>
+	<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+</head>
+
+<body th:align="center">
+	<h1>Insert Board</h1>
+	<form th:action="insertBoard" method="post">
+	<table th:align="center" border="1" th:cellpadding="0" th:cellspacing="0">
+		<tr>
+			<td bgcolor="orange" th:text="제목" width="80" />
+			<td><input name="title" type="text" size="50" /></td>
+		</tr>
+		<tr>
+			<td bgcolor="orange" th:text="작성자"/>
+			<td><input name="writer" type="text" size="20" /></td>
+		</tr>
+		<tr>
+			<td bgcolor="orange" th:text="내용"/>
+			<td><textarea name="content" cols="50" rows="10"></textarea></td>
+ 		</tr>
+ 		<tr>
+			<td colspan="2" align="center">
+				<input type="submit" value="게시글 등록"/>
+			</td>
+		</tr>
+	</table>
+	</form>
+	<a th:href="@{/getBoardList}">목록</a>
+</body>
