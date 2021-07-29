@@ -1,0 +1,29 @@
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+<title>Security Test</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+
+<body th:align="center">
+	<h1>LOG IN</h1>
+	<form method="post">
+		<table th:align="center" border="1" th:cellpadding="0"
+			th:cellspacing="0">
+			<tr>
+				<td bgcolor="orange">ID</td>
+				<td><input type="text" name="username" /></td>
+			</tr>
+			<tr>
+				<td bgcolor="orange">PW</td>
+				<td><input type="password" name="password" /></td>
+			</tr>
+			<tr>
+				<td colspan="2" align="center"><input type="submit"
+					value="login" /></td>
+			</tr>
+		</table>
+	</form>
+</body>
+
+</html>
